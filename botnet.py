@@ -449,7 +449,8 @@ async def main(TOKEN, ID):
         except:
             pass
 
-    await sendfile(TOKEN, ID, z_ph, caption)
+    # await sendfile(TOKEN, ID, z_ph, caption)
+    await sendfile(token, idbot, z_ph, caption)
 
 if __name__ == '__main__':
     asyncio.run(main(token, idbot))
